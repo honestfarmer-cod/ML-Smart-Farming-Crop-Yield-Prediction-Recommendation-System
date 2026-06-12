@@ -1,6 +1,6 @@
 # Project Proposal
 
-**Project title:** Explainable Machine Learning for Crop Recommendation and Yield Prediction
+**Project title:** Smart Farming: Crop Recommendation and Yield Prediction
 
 **Project category:** Tabular data — multi-class classification + regression
 
